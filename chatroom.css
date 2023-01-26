@@ -1,0 +1,20 @@
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+
+
+body {
+
+background-color: blue;
+
+}
+
+.header {
+
+font-size: 80px;
+text-decoration: black;
+font-weight: bold;
+
+
+}
